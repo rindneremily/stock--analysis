@@ -4,6 +4,7 @@ This project outlined a list of stocks and their returns, dates, and records. By
 
 ## Results
 Running this analysis proved to have some challenges. After learning the concepts, it was difficult to match the concepts with the syntax. Oftentimes, I found myself knowing how to get a solution but not knowing the correct syntax to get there. Shown below, I was able to mark all the returns with the designated color but had trouble reaching the ticker outcome I wanted. After experimentation with the code, I believe my issue came down to a misused variable. However, I was unable to determine exactly how to fix the code.
+![All stock analysis - returns.png] (https://raw.githubusercontent.com/rindneremily/stock-analysis/master/All%20stock%20analysis%20-%20returns%20.png)
 
 ## Summary
 ### Refactoring Code in General
